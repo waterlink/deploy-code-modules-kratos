@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["waterlink000@gmail.com"]
   spec.summary       = %q{deploy-code module for kratos integration.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/waterlink/deploy-code-modules-kratos"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
